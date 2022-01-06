@@ -1,4 +1,4 @@
-# Tarea-03-Polimorfismo-Character
+# Polimorfismo-Character
 ## Integrantes
 Hugo Edgar Palomares Estrella, A017414537
 
